@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "633262141228",
+    "project_id": "g-c-s-e-quiz-1ym0z3",
+    "storage_bucket": "g-c-s-e-quiz-1ym0z3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:633262141228:android:74eb23fbdc108414d3c689",
+        "android_client_info": {
+          "package_name": "com.mycompany.becomeastemmaster"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJLbyxRpQH3HWHYNJl_YKcBoYGIboNWN8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
